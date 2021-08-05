@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Armor Stands are Invincible by MRBBATES1",
+        "name": "Armor Stands are Invincible",
+        "uuid": "93facb1c-7857-4021-a753-80c55e3703f8",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Armor Stands are Invincible by MRBBATES1",
+            "type": "data",
+            "uuid": "4a68fd15-58e6-42b2-935b-696b75f36f59",
+            "version": [0, 0, 1]
+        }
+    ],
+	"metadata": {
+      "authors": [
+        "MRBBATES1"
+      ],
+      "url": "https://www.youtube.com/c/MRBBATES1"
+    }
+}
